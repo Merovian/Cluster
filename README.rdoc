@@ -1,1 +1,6 @@
-The Cluster App
+==Cluster
+Rapid collaboration made simple
+
+
+===TODO
+We still need to set up a rails project

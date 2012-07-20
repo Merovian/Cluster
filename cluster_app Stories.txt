@@ -1,0 +1,89 @@
+Cluster User Stories:
+---------------------
+
+In order to access the service
+As a guest 
+I should be able to visit the homepage and sign in via CAS
+
+In order to track my collaboration
+As a user 
+I should see a list of clusters I have created or belong to
+
+In order to see what files I can share
+As a user
+I should see a list of files I have uploaded
+
+In order to set up a collaboration space (cluster)
+As a user
+I should be able to create a cluster
+
+In order to make my personal files accessible
+As a user
+I should be able to upload files into the system
+
+In order to choose people I commonly collaborate with
+As a user
+I should be able to add people to my People list
+
+In order to share my personal files
+As a user
+I should be able to add my files to a cluster I belong to 
+
+In order to give people access to my shared files
+As a user
+I should be able to add people to a cluster I belong to
+
+In order to delete a cluster I have created
+As a user
+I should be able to delete that cluster
+
+In order to enter a cluster I belong to
+As a user
+I should be able to select a cluster from the list of clusters I belong to
+
+In order to view files in clusters I belong to
+As a user
+I should be able to click the file title to download a copy of the file.
+
+In order to stop sharing files in a cluster
+As a user
+I should be able to remove files I have placed there.
+
+In order to stop sharing with a person in a cluster
+As a user
+I should be able to remove any people except the creator of the cluster from the clusters I belong to
+
+LATER:
+------------
+File source
+------------
+In order to share my Google Drive files with a cluster
+As a user
+I should be able to link my Google Drive to My Files
+
+In order to share my Eli Apps Drive files with a cluster
+As a user
+My Eli Apps Drive should be automatically linked to My Files
+
+Roles
+------------
+In order to give a person the ability to modify a cluster I own or can edit
+As a user
+I should be able to add people as "Editors" to that cluster
+
+In order to give a person the ability to view a cluster I own or can edit
+As a user
+I should be able to add people as "Readers" to that cluster
+
+In order to to give a person full access to a cluster I own
+As a user
+I should be able to add people as "Owners" to that cluster
+
+Meta
+-----------
+In order to get more information on a person or file in a cluster I belong to
+As a user
+I should be able to hover over a person or file to see meta data about that person or file.
+
+
+
